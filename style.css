@@ -19,6 +19,7 @@ h3 {
 /* Header */
 header {
   text-align: center;
+  align-content: center;
 }
 
 /* Containers */
@@ -77,6 +78,7 @@ img {
 /* Footer */
 footer {
   text-align: center;
+  align-content: center;
 }
 
 /* Other page elements */
